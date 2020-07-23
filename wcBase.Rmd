@@ -47,14 +47,12 @@ knitr::read_chunk("code/setup.R")
 ```{r child="text/purposeSection.Rmd"}
 ```
 
-
 ## Demographics of Survey Respondents in a Merged Table
 
 This section provides demographic summary tables for the `r nrow(sdat)` survey respondents.
 
 ```{r makeTable, code=readLines("code/makeTable.R")}
 ```
-
 
 ## Weather Source Preference by Gender
 
