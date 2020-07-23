@@ -2,7 +2,7 @@
 
 This project provides templates for creating both an article and presentation slides for Weather Information Preferences in The United States.
 
-To see an example of the article template see [Article] (https://rpubs.com/J0S3UL1S3S/wcArticle)
+To see an example of the article template see https://rpubs.com/J0S3UL1S3S/wcArticle
 
-To see an example of the presentation slides template see [Presentation] (https://rpubs.com/J0S3UL1S3S/wcPresentation)
+To see an example of the presentation slides template see https://rpubs.com/J0S3UL1S3S/wcPresentation
 
